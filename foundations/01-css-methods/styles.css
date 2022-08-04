@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 24px;
+}
+
+button {
+    background-color: Orange;
+    font-size: 16px;
+}
